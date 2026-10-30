@@ -162,7 +162,7 @@ def main():
         rows.append(f'<g class="f" style="animation-delay:{i*90}ms"><circle cx="{cx+5}" cy="{cy-4}" r="5" fill="{LANG_COLORS.get(name, ACCENT2)}"/>'
                     f'<text x="{cx+16}" y="{cy}" class="l">{esc(name)} <tspan class="m">{v*100/s:.1f}%</tspan></text></g>')
     body = f'<clipPath id="c"><rect x="24" y="52" width="432" height="10" rx="5"/></clipPath><g clip-path="url(#c)">{"".join(bar)}</g>' + "".join(rows)
-    open(f"{OUT}/languages.svg", "w").write(card(480, 104 + ((len(top) + 1) // 2) * 26, "Most Used Languages (excl. notebooks)", body))
+    open(f"{OUT}/languages.svg", "w").write(card(480, 205, "Most Used Languages (excl. notebooks)", body))
 
     # ---- activity card (contributions per month, last 12 months)
     months = {}

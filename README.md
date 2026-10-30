@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://drive.google.com/file/d/10F6EhxB_HMCqD36dh5j6snCJ7SPvfrh5/view?usp=sharing"><img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/></a>
   <a href="https://drive.google.com/file/d/1DXO4mrRorQ48-ywPeFcwGxYEZaV5xlf8/view?usp=sharing"><img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Status-Open_to_work_·_Immediate_joiner-2ea44f?style=flat-square"/>
+  <a href="mailto:jayanth792033@gmail.com"><img src="https://img.shields.io/badge/Status-Open_to_work_·_Immediate_joiner-2ea44f?style=flat-square"/></a>
 </p>
 
 ---
@@ -84,7 +84,7 @@ Predicts e-commerce customer satisfaction from support data. TF-IDF + Logistic R
 <td width="50%" valign="top">
 
 ### 🧬 Reddit Persona Generator
-Turns a Reddit user's public posts into a cited behavioural persona with an LLM.<br/>
+Turns a Reddit user's public posts and comments into a behavioural persona with an LLM, citing the source for every trait.<br/>
 `PRAW` `OpenAI API` `JSON`<br/>
 <a href="https://github.com/Gonugunta-Venkata-Jayanth/Reddit_Persona_Generator"><img src="https://img.shields.io/badge/View_code-181717?style=flat-square&logo=github"/></a>
 
@@ -134,7 +134,7 @@ Go service with health probes, tests and a Cloud Build pipeline deploying to Kub
 - 🚧 First build lands this week. Follow [weekly-builds](https://github.com/Gonugunta-Venkata-Jayanth/weekly-builds) to see it.
 <!-- WEEKLY:END -->
 
-<sub>Auto-updated daily by GitHub Actions from <a href="https://github.com/Gonugunta-Venkata-Jayanth/weekly-builds">weekly-builds</a>.</sub>
+<sub>Auto-updated daily by GitHub Actions.</sub>
 
 ## 📊 GitHub Analytics
 
@@ -167,5 +167,5 @@ Go service with health probes, tests and a Cloud Build pipeline deploying to Kub
 - 🤝 Open to **Cloud, DevOps, SRE and MLOps** roles. Say hi at jayanth792033@gmail.com
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer"/>
+  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer"/>
 </p>
