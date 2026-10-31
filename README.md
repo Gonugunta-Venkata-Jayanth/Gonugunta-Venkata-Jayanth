@@ -131,7 +131,7 @@ Go service with health probes, tests and a Cloud Build pipeline deploying to Kub
 ## 🗓️ Latest Weekly Builds
 
 <!-- WEEKLY:START -->
-- 🚧 First build lands this week. Follow [weekly-builds](https://github.com/Gonugunta-Venkata-Jayanth/weekly-builds) to see it.
+- `2026-10-31` · [Logsentinel](https://github.com/Gonugunta-Venkata-Jayanth/weekly-builds/tree/main/2026-10-31-logsentinel)
 <!-- WEEKLY:END -->
 
 <sub>Auto-updated daily by GitHub Actions.</sub>
