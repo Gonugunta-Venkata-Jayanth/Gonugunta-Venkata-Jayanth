@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=AWS+Certified+Solutions+Architect+%E2%98%81%EF%B8%8F;Linux+%2B+AWS+for+10%2B+clients+%F0%9F%8C%8F;CI%2FCD%3A+Jenkins%2C+Docker%2C+Actions+%E2%9A%99%EF%B8%8F;Shipping+ML+models+to+production+%F0%9F%A4%96;Turning+raw+data+into+dashboards+%F0%9F%93%8A;A+new+full-stack+build+every+week+%F0%9F%9A%80" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=AWS+Certified+Solutions+Architect+%E2%98%81%EF%B8%8F;Linux+%2B+AWS+for+10%2B+clients+%F0%9F%8C%8F;CI%2FCD%3A+Jenkins%2C+Docker%2C+Actions+%E2%9A%99%EF%B8%8F;Shipping+ML+models+to+production+%F0%9F%A4%96;Turning+raw+data+into+dashboards+%F0%9F%93%8A;Automating+infra+with+Terraform+%2B+Linux+%F0%9F%9A%80" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
@@ -128,14 +128,6 @@ Go service with health probes, tests and a Cloud Build pipeline deploying to Kub
 </tr>
 </table>
 
-## 🗓️ Latest Weekly Builds
-
-<!-- WEEKLY:START -->
-- `2026-10-31` · [Logsentinel](https://github.com/Gonugunta-Venkata-Jayanth/weekly-builds/tree/main/2026-10-31-logsentinel)
-<!-- WEEKLY:END -->
-
-<sub>Auto-updated daily by GitHub Actions.</sub>
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -161,7 +153,6 @@ Go service with health probes, tests and a Cloud Build pipeline deploying to Kub
 
 ## 🌱 Right Now
 
-- 🔨 Shipping a full-stack build every **Tue / Thu / Sat** in [weekly-builds](https://github.com/Gonugunta-Venkata-Jayanth/weekly-builds)
 - 📚 Going deeper on **Terraform, Kubernetes, LLM apps and MLOps**
 - 🎤 Ran an AI workshop for **60+ students**
 - 🤝 Open to **Cloud, DevOps, SRE and MLOps** roles. Say hi at jayanth792033@gmail.com
