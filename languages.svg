@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="205" viewBox="0 0 480 205" role="img" aria-label="Most Used Languages (excl. notebooks)">
+<style>
+.t{font:600 17px 'Segoe UI',Ubuntu,sans-serif;fill:#7aa2f7}
+.l{font:400 13px 'Segoe UI',Ubuntu,sans-serif;fill:#c0caf5}
+.m{font:400 11px 'Segoe UI',Ubuntu,sans-serif;fill:#787c99}
+.v{font:700 22px 'Segoe UI',Ubuntu,sans-serif;fill:#c0caf5}
+.f{animation:fade .8s ease-in-out both}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+</style>
+<rect width="480" height="205" rx="10" fill="#1a1b27"/>
+<text x="24" y="34" class="t">Most Used Languages (excl. notebooks)</text>
+<clipPath id="c"><rect x="24" y="52" width="432" height="10" rx="5"/></clipPath><g clip-path="url(#c)"><rect x="24.0" y="52" width="222.9" height="10" fill="#3572A5"/><rect x="246.9" y="52" width="178.4" height="10" fill="#e34c26"/><rect x="425.4" y="52" width="13.8" height="10" fill="#b07219"/><rect x="439.2" y="52" width="8.9" height="10" fill="#f1e05a"/><rect x="448.1" y="52" width="3.0" height="10" fill="#563d7c"/><rect x="451.1" y="52" width="2.8" height="10" fill="#89e051"/><rect x="453.9" y="52" width="2.1" height="10" fill="#00ADD8"/></g><g class="f" style="animation-delay:0ms"><circle cx="29" cy="84" r="5" fill="#3572A5"/><text x="40" y="88" class="l">Python <tspan class="m">51.6%</tspan></text></g><g class="f" style="animation-delay:90ms"><circle cx="249" cy="84" r="5" fill="#e34c26"/><text x="260" y="88" class="l">HTML <tspan class="m">41.3%</tspan></text></g><g class="f" style="animation-delay:180ms"><circle cx="29" cy="110" r="5" fill="#b07219"/><text x="40" y="114" class="l">Java <tspan class="m">3.2%</tspan></text></g><g class="f" style="animation-delay:270ms"><circle cx="249" cy="110" r="5" fill="#f1e05a"/><text x="260" y="114" class="l">JavaScript <tspan class="m">2.1%</tspan></text></g><g class="f" style="animation-delay:360ms"><circle cx="29" cy="136" r="5" fill="#563d7c"/><text x="40" y="140" class="l">CSS <tspan class="m">0.7%</tspan></text></g><g class="f" style="animation-delay:450ms"><circle cx="249" cy="136" r="5" fill="#89e051"/><text x="260" y="140" class="l">Shell <tspan class="m">0.6%</tspan></text></g><g class="f" style="animation-delay:540ms"><circle cx="29" cy="162" r="5" fill="#00ADD8"/><text x="40" y="166" class="l">Go <tspan class="m">0.5%</tspan></text></g>
+</svg>
